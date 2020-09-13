@@ -1,5 +1,7 @@
 ### Hi there, I'm Navruz 👋
 
+<br />
+
 ## I'm a Python Software Developer
 
 - 🔭 I’m currently on my way to become Python Software Developer from newbie, while working full time as Telecom Service Engineer
@@ -11,7 +13,7 @@
      Have a large experience in network construction, troubleshooting and maintenance.
 
 <br />
----
+
 
 ### Connect with me:
 
@@ -19,7 +21,7 @@
 [<img align="left" alt="Navruz Inamov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
----
+
 
 ### Languages and Tools: 
 
