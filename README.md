@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm on the way to become Python Software Developer
+## Some words about me
 
 - 🔭 I’m currently on my way to become Python Software Developer from newbie, while working full time as Telecom Service Engineer
 - 🌱 I’m currently learning Python, Django, Python Network Scripting, SQL/PostgreSQL, Telegram Bot API, HTML, CSS
