@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other Software Developers  
 - 🏋️‍♂️Goal: Get a software engineering job within two years with the same or better salary than I am making right now as Telecom Engineer.
 - 💼 Interesting fact: I have 15 years of experience as an Optical Network and Telecom Field Engineer, have worked 
-     at companies like Huawei Technologies Co., Ltd., Alcatel-Lucent/Nokia, Astreya (@Google) and Ericsson.
+     at companies like Huawei Technologies Co., Ltd., Alcatel-Lucent/Nokia, Astreya and Ericsson.
      Have a large experience in network construction, troubleshooting and maintenance.
 
 <br />
